@@ -19,7 +19,7 @@ function calculateSalary(role) {
   return 1500;
 
   default:
-  return 1000
+  return 1000;
 
  }
 }
